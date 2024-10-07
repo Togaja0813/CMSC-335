@@ -1,3 +1,3 @@
-# UMGC CMSC-335
+# UMGC - CMSC335
 Object Oriented and Concurrency Programming
 mknlknknkj
